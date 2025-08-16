@@ -7,16 +7,12 @@ The main goal of this project is to provide an effective and integrated solution
 
 ### Table of Contents
 - [About the Project](#about-the-project)
-
 - [Key Features](#key-features)
-
 - [Repository Structure](#repository-structure)
-
 - [Technology Stack](#technology-stack)
-
 - [Getting Started](#getting-started)
+- [Authors](#authors)
 
-Authors
 <a id="about-the-project"></a>
 ### About the Project
 FleetAlert is designed to address the challenges faced by transportation and logistics companies. By defining virtual geographic boundaries (geofences), the system allows managers to receive automatic alerts when a vehicle enters or exits a designated area, ensuring routes are followed correctly and preventing unauthorized usage. The platform provides a complete overview of the fleet's performance through a web dashboard, while drivers use a mobile application to follow their assigned routes.
@@ -141,6 +137,7 @@ npm install
 # Start the mobile application with Expo
 npx expo start
 ```
+<a id="authors"></a>
 ### Authors
 - Felipe Messias Silva
 - Gabriel Maciel dos Santos
